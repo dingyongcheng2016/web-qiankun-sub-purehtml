@@ -1,0 +1,17 @@
+{
+  "name": "web-qiankun-sub-purehtml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "cross-env PORT=7104 http-server . --cors",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/dingyongcheng2016/web-qiankun-sub-purehtml.git",
+  "author": "dingyongcheng <bugcheng@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cross-env": "^7.0.2",
+    "http-server": "^0.12.1"
+  }
+}
